@@ -10,4 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img width="740" alt="image" src="https://github.com/MetaGearDAO/.github/assets/47131527/e980b459-ce4d-4577-9f1c-5504cdac610d">
+<img width="938" alt="image" src="https://github.com/CryptoGearsDAO/.github/assets/47131527/b3d77460-12c3-4dd1-9f20-b09b32eba3dd">
+
